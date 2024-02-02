@@ -39,13 +39,20 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sillver-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  <br/>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sillver-0&include_all_commits=true&show_icons=true)](https://github.com/sillver-0/github-readme-stats)
-  <br/>
-  <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ey411)](https://solved.ac/ey411/)
+  <br/>
+  <br/>
+#### 🍀 Project
+ <br/>
+ <br/>
+ 
+  | Date | Project        |
+  |-----------------|------------------------------------------------------------|
+  | 2018.06~2021.01 | 근현대 소실위기 재중동포 서신 DB화 및 생활문화 분석        |
+  | 2018.09~2018.11 | 식비 계산 및 올바른 소비습관을 위한 프로그램 개발          |
+  | 2019.05~2019.11 | [웹툰 데뷔작 성공 예측 모델 개발](https://github.com/sillver-0/naver_webtoon)                            |
+  | 2019.12~2020.11 | [BERT+ 알고리즘 기반 약물 리뷰를 활용한 약물 이상 반응 탐지](https://github.com/sillver-0/BERT-pl) |
+  | 2021.08~2023.08 | [Internal Fragment Ion](https://github.com/sillver-0/Internal-Framgent-ion) |
 
 </div>
 
