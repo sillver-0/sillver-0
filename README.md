@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  #![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:ddd6f3,100:faaca8&text=WELCOME-nl-EY's+GitHub👋&fontColor=f7f5f5&fontSize=35&height=100&fontAlignY=30&animation=twinkling)
+  
   
 ####  :wave: Welcome my github profile !
 
