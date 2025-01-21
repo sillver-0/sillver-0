@@ -34,15 +34,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
  
    <br/>
-   <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ey411)](https://solved.ac/ey411/)
-  <br/>
-  <br/>
+   
 #### 🍀 Project
  <br/>
  <br/>
